@@ -3,6 +3,11 @@
 ## Sistema de Gerenciamento de um universidade feito em Java utilizando JDBC.
 
 
+### Tecnologias
+* Java
+* JDBC
+* PostgreSQL
+
 ### Pré Requisitos
 * Java 11
 * Eclipse IDE 
